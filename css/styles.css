@@ -1,0 +1,33 @@
+
+  body {
+    background-color: #f7e0a3;
+  }
+
+  hr {
+
+    border-style: dotted none none none;
+
+    border-color:  pink;
+    border-width: 5px;
+    width: 75%;
+  }
+
+  img {
+    border-radius: 15px
+  }
+  h1{
+    color: #f09c67;
+  }
+  h3{
+    color: white;
+  }
+  th{
+    color: #f09c67;
+  }
+  a{
+    color: white
+    ;
+  }
+  p{
+    color: white;
+  }
